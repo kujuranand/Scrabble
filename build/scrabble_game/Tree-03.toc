@@ -1,0 +1,35 @@
+('D:\\CDU\\Sem 2\\Software Engg_Practices and Tools\\Assessment\\Software Unit '
+ 'Testing Report\\build\\scrabble_game\\pyspellchecker-0.6.2-py3.8.egg',
+ None,
+ {'*.pyw', '*.py', '*.pyc', '*.cp38-win_amd64.pyd', 'EGG-INFO', '*.pyd'},
+ 'DATA',
+ [('spellchecker\\resources\\de.json.gz',
+   'D:\\CDU\\Sem 2\\Software Engg_Practices and Tools\\Assessment\\Software '
+   'Unit Testing '
+   'Report\\build\\scrabble_game\\pyspellchecker-0.6.2-py3.8.egg\\spellchecker\\resources\\de.json.gz',
+   'DATA'),
+  ('spellchecker\\resources\\en.json.gz',
+   'D:\\CDU\\Sem 2\\Software Engg_Practices and Tools\\Assessment\\Software '
+   'Unit Testing '
+   'Report\\build\\scrabble_game\\pyspellchecker-0.6.2-py3.8.egg\\spellchecker\\resources\\en.json.gz',
+   'DATA'),
+  ('spellchecker\\resources\\es.json.gz',
+   'D:\\CDU\\Sem 2\\Software Engg_Practices and Tools\\Assessment\\Software '
+   'Unit Testing '
+   'Report\\build\\scrabble_game\\pyspellchecker-0.6.2-py3.8.egg\\spellchecker\\resources\\es.json.gz',
+   'DATA'),
+  ('spellchecker\\resources\\fr.json.gz',
+   'D:\\CDU\\Sem 2\\Software Engg_Practices and Tools\\Assessment\\Software '
+   'Unit Testing '
+   'Report\\build\\scrabble_game\\pyspellchecker-0.6.2-py3.8.egg\\spellchecker\\resources\\fr.json.gz',
+   'DATA'),
+  ('spellchecker\\resources\\pt.json.gz',
+   'D:\\CDU\\Sem 2\\Software Engg_Practices and Tools\\Assessment\\Software '
+   'Unit Testing '
+   'Report\\build\\scrabble_game\\pyspellchecker-0.6.2-py3.8.egg\\spellchecker\\resources\\pt.json.gz',
+   'DATA'),
+  ('spellchecker\\resources\\ru.json.gz',
+   'D:\\CDU\\Sem 2\\Software Engg_Practices and Tools\\Assessment\\Software '
+   'Unit Testing '
+   'Report\\build\\scrabble_game\\pyspellchecker-0.6.2-py3.8.egg\\spellchecker\\resources\\ru.json.gz',
+   'DATA')])
